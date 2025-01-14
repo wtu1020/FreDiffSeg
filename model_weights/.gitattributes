@@ -1,0 +1,1 @@
+FreDiffSeg_512x512_160k_ade20k.pth filter=lfs diff=lfs merge=lfs -text
